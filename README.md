@@ -1,6 +1,7 @@
 # Dannys-Discord-Bot
 A simple multi purpose discord.py bot
 
+Version Alpha 0.5.1
 
 This is a discontinued project for these reasons:
 - Discord expects all developers to switch to a slash command based bot by April 2022.
